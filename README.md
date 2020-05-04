@@ -1,6 +1,7 @@
 ### ScreenJunkies
 ---
-http://videos.sapo.pt/
+https://screenjunkies.com/
+
 
 ```
 ```
